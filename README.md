@@ -35,8 +35,8 @@ NumWebPurchases - number of purchases made through company’s web site
 NumWebVisitsMonth - number of visits to company’s web site in the last month
 Recency - number of days since the last purchase
 
-I learned how to use formulas in excel to identify different patterns and trends 
-I used MySQL to learn how to manipulate data by using queries to provide and outcome 
+I learned how to use formulas in excel to identify different patterns and trends. I used pivot tables to manipulate the data.
+I used MySQL to learn how to manipulate data by using queries to provide an outcome 
 I used Power BI to create a visual representation of my findings by applying filters to the data 
 
 I found that the largest number of customers are between the ages of 51-57 
